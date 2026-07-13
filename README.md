@@ -22,6 +22,7 @@ Here is a quick look at the logic and programs I have written and tested locally
 * 🟢 **`sum.c`** - Basic arithmetic operations.
 * 🟢 **`circle_area.c` & `sqaure_area.c`** - Geometry-based logic implementation.
 * 🟢 **`divby2.c`** - Logic building using Modulo Operator (`%`) and `if-else` conditionals to check divisibility.
+* 🟢 ** and many more
 
 ---
 
