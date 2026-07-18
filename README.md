@@ -32,3 +32,19 @@ Here is a quick look at the logic and programs I have written and tested locally
 3. Keep updating this repository with every new topic I learn!
 
 *Happy Coding! 🚀*
+
+
+## 🎮 Featured Project: Bulletproof Multiplier Game
+
+A crash-proof CLI game built in C that validates inputs, protects itself from character crashes, and features an adaptive reward system.
+
+### 📜 Quick Game Rules
+* 🎯 **Goal:** Always enter an **ODD** number.
+* 🚪 **Exit:** Enter **`0`** anytime to safely quit.
+* ⛔ **Even Number Penalty:** Costs 1 Life (Total: 3). Correct odd input gives +1 life back.
+* 🚨 **Non-Integer Penalty (abc/xyz):** Costs 1 Security Token (Total: 5). Permanent loss, no recovery!
+
+### ⚙️ How to Run
+```bash
+gcc bulletproofmultiplier.c -o game
+./game
